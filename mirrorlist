@@ -1,0 +1,3 @@
+Server = http://mirror.dc.uz/arch/$repo/os/$arch
+Server = https//mirror.dc.uz/arch/$repo/os/$arch
+Server = rsync://mirror.dc.uz/arch/$repo/os/$arch
