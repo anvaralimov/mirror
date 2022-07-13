@@ -12,4 +12,4 @@ clear
 
 echo "Tayyor, O'zbekiston mirrori o'rnatildi..."
 
-figlet  -c "Xinux | Uzinfocom 2022" | lolcat
+figlet -c "Xinux | Uzinfocom 2022" | lolcat
